@@ -1,6 +1,5 @@
 # BigIntegers
 ### An Implementation of BigInteger library in C++
-![Banner]
 
 ### BigIntegers is a C++ library that is useful when we are dealing with BigIntegers. We can handle big integers (integers having a more significant size than the long long data type). We can perform arithmetic operations like addition, multiplication, subtraction, division, equality check, etc. Also, there are several functions like factorial, reverse. We can check that a number is a palindromic number, counting occurrences, etc. It has some conversion options to convert a string to bhimInteger etc. Overall this library is handy for extensive computing results.
 
